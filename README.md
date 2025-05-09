@@ -22,6 +22,7 @@ I'm a **Web Developer** and **Computer Science Enthusiast** currently pursuing m
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manavvaria117)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManavVaria117)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Manav_Varia/)
+
 📧 **Email:** variamanav117@gmail.com  
 📱 **Phone:** 6351171448  
 
